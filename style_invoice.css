@@ -50,3 +50,12 @@ cursor: pointer;
 background-color: #1cd41c;
 }
 
+.teirmkasih img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.navbar {
+  font-family: 'DM Serif Text', serif;
+  font-size: 18px;
