@@ -116,7 +116,7 @@ li a {
 }
 
 .footer {
-    background-color:#bbbbbb;
+    background-color:#e9eec9;
     width: 100%;
     height: 150px;
     text-align: center;
@@ -125,4 +125,12 @@ li a {
 .contactus {
     font-family: 'DM Serif Text', serif;
     color: #913535;
+    margin-top: 8px;
+}
+
+.copyright {
+    font-family: 'DM Serif Text', serif;
+    color: #913535;
+    font-size: 12px;
+
 }
