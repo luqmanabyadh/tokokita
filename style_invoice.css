@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  color: white;
+}
+
+table, td{
+border: 1px solid black;
+}
+
+table{
+margin: auto;
+border-collapse: collapse;
+table-layout: fixed;
+height:80px;
+}
+
+th{
+background-color: #bbbbbb;
+color: black;
+
+}
+
+.tabel_pemesan {
+margin-top:50px;
+width:50%;
+}
+
+.tabel_pesanan {
+margin-top:50px;
+width:60%;
+}
+
+tfooter{
+margin-down:100px;
+}
+
+.button {
+background-color: #4CAF50;
+border: none;
+color: white;
+padding: 8px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 30px 2px;
+cursor: pointer;
+}
+.button:hover{
+background-color: #1cd41c;
+}
+
