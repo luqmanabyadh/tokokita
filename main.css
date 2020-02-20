@@ -49,6 +49,11 @@ table {
 
 /* styling */
 
+.navbar a:hover {
+    background-color: #913535;
+    color: #e9eec9;
+}
+
 ul {
     list-style-type: none;
     margin: 0px;
@@ -108,6 +113,7 @@ li a {
     font-family: 'Alfa Slab One', cursive;
     line-height: 30px;
     font-size: 16px;
+    text-shadow: 2px 2px black;
 }
 
 .navbar {
@@ -132,5 +138,4 @@ li a {
     font-family: 'DM Serif Text', serif;
     color: #913535;
     font-size: 12px;
-
 }
